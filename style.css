@@ -1,0 +1,28 @@
+div {
+   text-align: center;
+   width: 50%;
+   margin-left: 25%;
+   font-family: "Libre Baskerville", serif;
+}
+html {
+    background-color: #16476A;
+}
+.resim {
+width: 100%;
+border: 5px solid #FFD700;
+margin-top: 30px;
+margin-bottom: 25px;
+}
+h1 {
+    color: azure;
+}
+p {
+    color: rgb(215, 230, 230);
+    margin-top: 30px;
+}
+footer {
+    color: rgba(240, 255, 255, 0.356);
+    margin-top: 70px;
+    text-align: right;
+    width: 100%;
+}
